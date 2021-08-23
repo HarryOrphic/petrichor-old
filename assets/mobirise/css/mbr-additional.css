@@ -1129,6 +1129,11 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-sGUCxtmmM2 .mbr-text,
+.cid-sGUCxtmmM2 .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
 .cid-sGUI1ZeGYp {
   padding-top: 90px;
   padding-bottom: 90px;
