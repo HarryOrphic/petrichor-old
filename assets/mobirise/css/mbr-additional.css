@@ -1130,39 +1130,6 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-sGUK0tR3OC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-sGUK0tR3OC h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-sGUK0tR3OC p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-sGUK0tR3OC .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-sGUK0tR3OC .mbr-section-btn a {
-  margin: 0;
-}
-.cid-sGUK0tR3OC .mbr-text {
-  color: #767676;
-}
-.cid-sGUK0tR3OC .card-wrapper {
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-sGUK0tR3OC .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
 .cid-sGUI1ZeGYp {
   padding-top: 90px;
   padding-bottom: 90px;
