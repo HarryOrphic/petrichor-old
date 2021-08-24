@@ -1187,8 +1187,16 @@ section.lazy-placeholder:after {
 .cid-sGV1xQgcBO .card-img {
   text-align: left;
 }
+.cid-sH10O0En5u {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #a9aaae;
+}
+.cid-sH10O0En5u P {
+  color: #767676;
+}
 .cid-sGUI1ZeGYp {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #a9aaae;
 }
