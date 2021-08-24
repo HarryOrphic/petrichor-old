@@ -1134,8 +1134,16 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: left;
 }
+.cid-sH10cnD4qe {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #a9aaae;
+}
+.cid-sH10cnD4qe P {
+  color: #767676;
+}
 .cid-sGV1xQgcBO {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 90px;
   background-color: #a9aaae;
 }
@@ -1171,6 +1179,13 @@ section.lazy-placeholder:after {
   .cid-sGV1xQgcBO .card-box {
     padding-left: 0;
   }
+}
+.cid-sGV1xQgcBO P {
+  text-align: left;
+}
+.cid-sGV1xQgcBO .card-title,
+.cid-sGV1xQgcBO .card-img {
+  text-align: left;
 }
 .cid-sGUI1ZeGYp {
   padding-top: 90px;
