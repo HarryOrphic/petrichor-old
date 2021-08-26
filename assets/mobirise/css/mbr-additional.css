@@ -1402,54 +1402,6 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-#witsec-mailform-m3-14 .mbr-section-title {
-  text-align: center;
-  color: #232323;
-}
-#witsec-mailform-m3-14 .mbr-section-subtitle {
-  text-align: center;
-  color: #767676;
-}
-#witsec-mailform-m3-14 .mbr-section-labels {
-  color: #000;
-  padding: 0;
-  margin-bottom: .357em;
-}
-#witsec-mailform-m3-14 .form-control-textarea {
-  min-height: 188px;
-}
-#witsec-mailform-m3-14 .mbr-section-autorespond {
-  text-align: left;
-  color: #232323;
-  margin-bottom: 0;
-  display: inline;
-}
-#witsec-mailform-m3-14 .mbr-section-gdpr {
-  text-align: left;
-  color: #232323;
-  margin-bottom: 0;
-  display: inline;
-}
-#witsec-mailform-m3-14 .mbr-section-terms {
-  text-align: center;
-  color: #232323;
-  margin-bottom: 0;
-}
-#witsec-mailform-m3-14 .alert {
-  margin-bottom: 0;
-}
-#witsec-mailform-m3-14 .g-recaptcha {
-  margin-bottom: 1rem;
-}
-#witsec-mailform-m3-14 .align-right {
-  text-align: right;
-}
-#witsec-mailform-m3-14 .alert-success {
-  color: #ffffff;
-}
-#witsec-mailform-m3-14 .alert-danger {
-  color: #ffffff;
-}
 .cid-sGUsB4Y7A8 .navbar {
   background: #8f8f8f;
   transition: none;
