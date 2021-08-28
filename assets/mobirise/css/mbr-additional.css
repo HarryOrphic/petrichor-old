@@ -2748,6 +2748,52 @@ section.lazy-placeholder:after {
 .cid-sGUsB4Y7A8 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-sHoDjflCT3 {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-color: #8f8f8f;
+}
+.cid-sHoDjflCT3 h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-sHoDjflCT3 p {
+  color: #767676;
+}
+.cid-sHoDjflCT3 .card-wrapper {
+  border-top: 1px solid #ffffff;
+  background-color: #a9aaae;
+  position: relative;
+  justify-content: unset;
+}
+.cid-sHoDjflCT3 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-sHoDjflCT3 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-sHoDjflCT3 .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-sHoDjflCT3 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-sHoDjflCT3 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-sHoDjflCT3 .cost {
+  color: #232323;
+}
+.cid-sHoDjflCT3 .b-descr {
+  color: #000000;
+}
 .cid-sH157pfXgO {
   padding-top: 135px;
   padding-bottom: 90px;
